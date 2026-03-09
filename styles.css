@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Oswald:wght@200..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Oswald", sans-serif;
+}
+
+.name.home{
+    color:rgb(0, 0, 0);
+}
+hr{
+    opacity: 70%;
+    color: rgb(190, 18, 18);
+}
+.has ul{
+    display: flex;
+    list-style-type: none;
+    gap: 2rem;
+    ;
+    
+}
+.has a {
+    text-decoration: none;
+    color: rgb(61, 59, 59);
+}
+.has a:hover{
+ 
+    color: rgba(0, 0, 0, 0.658);
+}
+hr{
+    opacity: 100%px;
+    color: rgb(61, 19, 19);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     margin: 2rem auto;  
+      max-width: 1200px;  
+    padding: 0 0.5rem;  
+}
+.fade{
+   box-sizing: border-box;
+
+}
+body{
+    margin:1px;
+    font-family: Arial;
+}
+
+nav{
+    background:#437c79;
+    padding:4px;
+}
+
+nav ul{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    gap: 5px;
+    margin:0;
+    padding:0;
+}
+
+nav ul li a{
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    font-size:20px;
+}
+
+nav ul li a:hover{
+    color:rgb(182, 169, 147);
+}
+ nav ul {
+  display: flex;       /* يجعل العناصر في صف واحد */
+  gap: 4px;           /* المسافة بين كل عنصر */
+  list-style: 2px;    /* إزالة النقاط من القائمة */
+  padding: 0px;          /* إزالة المسافة الافتراضية حول القائمة */
+  margin: 0px;
+}
+
+nav ul li {
+  font-size: 9px;     /* حجم الخط */
+}
+.MI{
+ top: 50px;
+}
+.herd{
+    color: royalblue;
+}
+.hagoimg{
+    width: 1%1%;
+}
+.product{
+border:1px solid #ccc;
+padding:10px;
+margin:10px;
+width:200px;
+}
+.imgn{
+    width: 300px;
+  
+
+
+}
+.hago{
+
+  top: 50px;
+  transform: translateY(-110px);
+
+    color: rgb(68, 64, 58);
+     
+}
+.textamin {
+    color: rgb(127, 143, 141);
+    margin-left: 280px;
+     transform: translateY(-550px);
+
+}
+.hrhr{
+     transform: translateY(-279px);
+}
+.finish{
+    width: 220px;
+transform: translateY(-277px);
+ margin-left: 50px;
+
+}
+.hagoooo{
+     margin-left: 278px;
+     transform: translateY(-530px);
+
+}
+.hrhrhr{
+     
+     transform: translateY(-369px);
+}
+.hajr{
+      margin-left: 280px;
+     transform: translateY(-530px);
+
+}
+.sham{
+    width: 300px;
+     margin-left: 350px;
+     transform: translateY(-599px);
+
+}
+.jaja{
+     margin-left: 749px;
+     transform: translateY(-800px);
+
+}
+.jajaja{
+      margin-left: 745px;
+     transform: translateY(-800px);
+
+}
+.hghghg{
+    width: 220px;
+    margin-left: 999px;
+     transform: translateY(-880px);
+}
+.hghgf{
+     margin-left: 1299px;
+     transform: translateY(-1070px);
+}
+.jagf{
+    width: 500px;
+    margin-left: 1299px;
+     transform: translateY(-1160px);
+}
